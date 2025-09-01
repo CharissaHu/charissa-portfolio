@@ -11,7 +11,7 @@ This portfolio showcases my **internship projects at SenseTime, campus products 
 
 ## 🏢 Internship Projects | 实习经历
 - [商汤科技-AI云计算产品实习生](https://github.com/CharissaHu/Internship-Projects)
-- 云计算入门 | IAAS | K8S
+  主要负责计算方向的产品迭代，同时还承担竞品分析、用户文档建设、SKU管理和客户交付等示范工作。
  
 
 ## 🎓 Campus Products | 校园项目
