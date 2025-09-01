@@ -31,4 +31,3 @@ This portfolio showcases my **internship projects at SenseTime, campus products 
 - Tech: Kubernetes, SQL, Python (Pandas, Pylogit, Matplotlib)  
 
 📫 Contact: [hxj2001082@163.com](mailto:hxj2001082@163.com)   
-🌐 Portfolio Website: [https://CharissaHu.github.io](https://CharissaHu.github.io)  
