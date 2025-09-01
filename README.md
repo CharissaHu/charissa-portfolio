@@ -1,9 +1,7 @@
 # charissa-portfolio
-my portfolio for PM
-
 # 👋 Hi, I'm Xiaojun Hu 
 
-🏫 Beijing Normal University
+🏫 Beijing Normal University | 北京师范大学
 👸 MBTI：ENFJ
 🎯 Product Manager | AI & Cloud Computing 
 
@@ -11,22 +9,19 @@ This portfolio showcases my **internship projects at SenseTime, campus products 
 
 ---
 
-## 🏢 Internship Projects
+## 🏢 Internship Projects | 实习经历
 - [商汤科技-AI云计算产品实习生](https://github.com/CharissaHu/Internship-Projects)
+- 云计算入门 | IAAS | K8S
  
 
-## 🎓 Campus Products
-- [掌上重邮](https://github.com/CharissaHu/Campus-Products)
-  All-in-one campus service app with 100k+ users, supporting class schedule, bus info, and community features.  
-- [重邮帮](https://github.com/yourname/campus-app-chongyoubang)  
-  Campus activity & event platform with 17k+ users, improved recruitment efficiency by 30%.  
-- [学习填填乐](https://github.com/yourname/study-h5-xuexitian)  
-  Interactive H5 learning tool with 430k+ UV in one month.  
+## 🎓 Campus Products | 校园项目
+- [校园服务类产品](https://github.com/CharissaHu/Campus-Products)
+- 主导并参与了多个校园服务类项目的设计与迭代，这些项目覆盖校内80%的本科生用户，在校园生活、学习工具和活动参与等方面提供了全方位的服务支持。
 
-## 📑 Research Projects
+## 📑 Research Projects | 科研项目
 - [Text Distance from Nested and Hierarchical Repetitions: A Compression-Based Perspective](https://github.com/CharissaHu/Research-Projects)  
   Achieved 95% accuracy with resource-constrained KNN model, outperforming BERT in some tasks.
-  论文在投，预印版->https://math.chinaxiv.org/abs/202506.00060
+  论文在投，[预印版](https://math.chinaxiv.org/abs/202506.00060)
 
 ---
 
