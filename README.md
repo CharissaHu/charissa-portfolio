@@ -16,12 +16,13 @@ This portfolio showcases my **internship projects at SenseTime, campus products 
 
 ## 🎓 Campus Products | 校园项目
 - [校园服务类产品](https://github.com/CharissaHu/Campus-Products)
-- 主导并参与了多个校园服务类项目的设计与迭代，这些项目覆盖校内80%的本科生用户，在校园生活、学习工具和活动参与等方面提供了全方位的服务支持。
+  主导并参与了多个校园服务类项目的设计与迭代，这些项目覆盖校内80%的本科生用户，在校园生活、学习工具和活动参与等方面提供了全方位的服务支持。
 
 ## 📑 Research Projects | 科研项目
 - [Text Distance from Nested and Hierarchical Repetitions: A Compression-Based Perspective](https://github.com/CharissaHu/Research-Projects)  
-  Achieved 95% accuracy with resource-constrained KNN model, outperforming BERT in some tasks.
-  论文在投，[预印版](https://math.chinaxiv.org/abs/202506.00060)
+  基于自研LP压缩算法提取无参数特征，设计轻量化kNN分类模型，在资源受限条件下实现95%文本分类准确率，部分任务性能超越BERT/CNN等深度神经网络模型
+  
+  论文在投[预印版](https://math.chinaxiv.org/abs/202506.00060)
 
 ---
 
