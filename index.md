@@ -22,7 +22,7 @@ This portfolio showcases my **internship projects at SenseTime, campus products 
 - [Text Distance from Nested and Hierarchical Repetitions: A Compression-Based Perspective](https://github.com/CharissaHu/Research-Projects)  
   基于自研LP压缩算法提取无参数特征，设计轻量化kNN分类模型，在资源受限条件下实现95%文本分类准确率，部分任务性能超越BERT/CNN等深度神经网络模型
   
-  论文在投[预印版](https://math.chinaxiv.org/abs/202506.00060)
+  论文在投-->[预印版](https://math.chinaxiv.org/abs/202506.00060)
 
 ---
 
