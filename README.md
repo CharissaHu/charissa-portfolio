@@ -11,7 +11,7 @@ This portfolio showcases my **internship projects at SenseTime, campus products 
 
 ## 🏢 Internship Projects | 实习经历
 - [商汤科技-AI云计算产品实习生](https://github.com/CharissaHu/Internship-Projects)
-- 云计算入门 | IAAS | K8S
+  主要负责计算方向的产品迭代，同时也承担了竞品分析、用户文档建设、SKU 管理和客户交付等多项工作。  
  
 
 ## 🎓 Campus Products | 校园项目
@@ -22,7 +22,7 @@ This portfolio showcases my **internship projects at SenseTime, campus products 
 - [Text Distance from Nested and Hierarchical Repetitions: A Compression-Based Perspective](https://github.com/CharissaHu/Research-Projects)  
   基于自研LP压缩算法提取无参数特征，设计轻量化kNN分类模型，在资源受限条件下实现95%文本分类准确率，部分任务性能超越BERT/CNN等深度神经网络模型
   
-  论文在投[预印版](https://math.chinaxiv.org/abs/202506.00060)
+  论文在审 [预印版](https://math.chinaxiv.org/abs/202506.00060)
 
 ---
 
