@@ -1,24 +1,22 @@
 # charissa-portfolio
-# 👋 Hi, I'm Xiaojun Hu 
+# 👋 Hi，我是胡晓俊
 
-🏫 Beijing Normal University | 北京师范大学
+🏫 北京师范大学
 👸 MBTI：ENFJ
-🎯 Product Manager | AI & Cloud Computing 
-
-This portfolio showcases my **internship projects at SenseTime, campus products at CQUPT, and research in NLP**.  
+🎯 产品经理 | AI & 云计算 
 
 ---
 
-## 🏢 Internship Projects | 实习经历
+## 🏢  实习经历
 - [商汤科技-AI云计算产品实习生](https://github.com/CharissaHu/Internship-Projects)
   主要负责计算方向的产品迭代，同时也承担了竞品分析、用户文档建设、SKU 管理和客户交付等多项工作。  
  
 
-## 🎓 Campus Products | 校园项目
+## 🎓 校园项目
 - [校园服务类产品](https://github.com/CharissaHu/Campus-Products)
   主导并参与了多个校园服务类项目的设计与迭代，这些项目覆盖校内80%的本科生用户，在校园生活、学习工具和活动参与等方面提供了全方位的服务支持。
 
-## 📑 Research Projects | 科研项目
+## 📑 科研项目
 - [Text Distance from Nested and Hierarchical Repetitions: A Compression-Based Perspective](https://github.com/CharissaHu/Research-Projects)  
   基于自研LP压缩算法提取无参数特征，设计轻量化kNN分类模型，在资源受限条件下实现95%文本分类准确率，部分任务性能超越BERT/CNN等深度神经网络模型
   
@@ -26,8 +24,11 @@ This portfolio showcases my **internship projects at SenseTime, campus products 
 
 ---
 
-## 🛠️ Skills
-- Product: PRD Writing, Competitive Analysis, Wireframing (Figma, Axure)  
-- Tech: Kubernetes, SQL, Python (Pandas, Pylogit, Matplotlib)  
+## 🛠️ 技能与评价
+- 产品规划与设计：熟练使用Xmind 拆解需求逻辑，充分进行竞品调研，使用Axure/墨刀进行原型设计，能够独立撰写 PRD，具备从需求导入到产品交付的完整经验。
+- 云原生与技术理解：熟悉云原生产品规划及弹性计算/容器管理相关产品设计，熟悉 K8s 核心概念，具备基础的kubectl查询能力，进行日常运维与排障，能使用Git协作和版本管理。
+- 数据分析: 熟练应用Python( Pandas、Numpy、Matplotlib)、SQL进行数据清洗、预处理和可视化，数据敏感性强。
+- 语言与沟通：具备较强的沟通和协调能力，能够推动多方资源协作，确保项目按时上线。
+- 性格特征：踏实负责不逃避、适当幽默有善意
 
-📫 Contact: [hxj2001082@163.com](mailto:hxj2001082@163.com)   
+📫 与我联系: [hxj2001082@163.com](mailto:hxj2001082@163.com)   
